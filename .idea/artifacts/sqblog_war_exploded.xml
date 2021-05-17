@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sqblog:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sqblog_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sqblog/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sqblog" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
